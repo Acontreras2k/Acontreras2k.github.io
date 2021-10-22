@@ -1,0 +1,71 @@
+<html>
+<head meta charset="UTF-8">
+<tilte> Lenguajes de Programacion </title
+</head>
+
+Lenguajes de programación <br />
+
+
+1.	¿Qué diferencia existe entre los lenguajes declarativos y los imperativos? Nombra al menos 2 de cada tipo.<br />
+
+Los Declarativos indicamos el resultado a obtener sin especificar pasos (Lisp, SQL, Haskell)<br />
+
+Los Imperativos indicamos los pasos a seguir para obtener resultados (C, Java, C++)<br />
+
+
+2.	Explica qué es compilar. Explica qué es interpretar <br />
+
+Compilar: Todo el código fuente se traduce y se ejecuta
+Interpretar: Se ejecuta el código fuente de línea en línea.
+
+
+
+3.	Ventajas de los lenguajes compilados.
+
+A la hora de ejecutar código es más eficiente que el interpretado
+
+
+4.	Ventajas de los lenguajes interpretados.
+
+Interpreta el código fuente directamente y es independiente de la máquina y del sistema operativo
+
+
+5.	Nombra 2 lenguajes compilados y otros 2 interpretados.
+Compilados serían C o C++
+Interpretados serían PHP o Javascript
+
+
+6.	¿Puede considerarse código objeto el bytecode generado en Java tras la compilación? Explica la respuesta.
+Si, porque el código objeto es un resultado de compilar código fuente
+
+
+
+7.	Pon un ejemplo de lenguaje de los siguientes tipos:
+•	Bajo nivel.: Ensamblador
+•	Nivel medio. C
+•	Alto nivel. Java
+
+8.	¿Qué paradigma de programación siguen los siguientes lenguajes?
+•	C: Imperativo
+•	C++: Imperativo
+•	SQL: Multiparadigma
+•	Java: Declarativo
+•	Javascript: Multiparadigma
+•	Lisp: Declarativo
+•	Prolog: Declarativo
+
+Puedes consultar el siguiente enlace:
+https://es.wikipedia.org/wiki/Paradigma_de_programaci%C3%B3n
+
+
+9.	Explica qué criterios pueden seguirse a la hora de elegir un lenguaje de programación para el desarrollo software.
+Campo de aplicación
+Experiencia previa
+Herramientas de desarrollo
+Documentación disponible
+Base de usuarios
+Reusabilidad
+Portabilidad
+Imposición del cliente
+
+
